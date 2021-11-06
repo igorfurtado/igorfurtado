@@ -16,7 +16,7 @@ Visite o meu portfolio: https://igortargino.vercel.app
 
 ### Tecnologias com as quais estou trabalhando:
 
- <div style="display: inline_block">
+ <div style="display: flex">
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
