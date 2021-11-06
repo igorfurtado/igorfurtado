@@ -1,6 +1,6 @@
-### Igor Furtado Targino 👨‍💻
+<h1>Igor Furtado Targino 👨‍💻</h1> 
 
-Desenvolvedor Front-end e UI designer.
+<h3>Desenvolvedor Front-end e UI designer.</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorfurtado/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/3wkXIQW)
@@ -16,7 +16,7 @@ Visite o meu portfolio: https://igortargino.vercel.app
 </div>
 
 
-### Tecnologias com as quais estou trabalhando:
+  <h3>Tecnologias com as quais estou trabalhando:</h3>
 
  <div style="display: flex; flex_rap:no-wrap; flex-direction: row;">
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
