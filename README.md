@@ -10,7 +10,7 @@
 </div></br>
 
 
-<p>Visite o meu portfolio: https://igortargino.vercel.app</p>
+<p align="center">Visite o meu portfolio: https://igortargino.vercel.app</p>
 
 <div align="center";>
   <a href="https://github.com/igorfurtado?tab=repositories">
