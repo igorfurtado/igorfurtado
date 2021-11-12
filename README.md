@@ -1,6 +1,6 @@
 <h1 align="center";>Igor Furtado Targino 👨‍💻</h1> 
 
-<h3 align="center";>Desenvolvedor Front-end e UI designer.</h3>
+<h3 align="center";>Desenvolvedor Front-end.</h3>
 
 <div style="display: flex; flex_rap:no-wrap; flex-direction: row;" align="center">
 <a href="https://www.linkedin.com/in/igorfurtado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
